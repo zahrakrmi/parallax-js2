@@ -1,1 +1,1 @@
-# parallax-js2
+# parallax-js
